@@ -58,15 +58,6 @@ I’ve gained practical experience through **freelance projects** and a **curric
 
 ---
 
-## 📌 What You’ll Find Here
-
-- Backend-focused projects with clean architecture
-- REST APIs with authentication, validation, and business logic
-- Full-stack applications where the backend is the core
-- Well-structured codebases with clear READMEs
-
----
-
 <div align="center">
   <sub>Backend-first mindset, full-stack capability.</sub>
 </div>
